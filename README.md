@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliasVal, or just Elias. (it's pronounced El(ee)as, not El(ay)as)
 - 👀 I’m interested in Flat Website Designs, Game Development and all kinds of cool stuff.
-- 🌱 I’m currently learning React and Electron.
+- 🌱 Learning Basically Anything, mainly web frameworks though.
 - 📫 You can reach me via Discord: `Spinge Bib Sqorpnts#0116`
 
 <!---
